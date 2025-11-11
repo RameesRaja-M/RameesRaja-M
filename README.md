@@ -7,16 +7,6 @@ Software Developer with MERN Stack
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramees-raja-m/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/luvit_ramees/)
 
-
-
-
-## About Me
-Full-stack MERN Developer with 2 months of industry internship
- experience. Strong in JavaScript, React.js, Node.js, Express.js,
- and MongoDB with practical knowledge of APIs, authentication,
- and database management. Highly motivated fresher ready to
- deliver value and adapt quickly in a team-driven environment.
-
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img width="48" height="48" src="https://img.icons8.com/plumpy/48/framer-logo.png" alt="framer-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 
